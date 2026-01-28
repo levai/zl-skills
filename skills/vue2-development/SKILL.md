@@ -3,7 +3,7 @@ name: vue2-development
 description: Vue 2 + TypeScript 组件开发规范，使用 vue-property-decorator 类组件模式。适用于开发 Vue 单文件组件、表单组件、对话框组件等场景。
 metadata:
   author: datagradient-ui
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Vue 组件开发规范
