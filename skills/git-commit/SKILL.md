@@ -3,7 +3,7 @@ name: git-commit
 description: Git 提交信息规范，遵循 Conventional Commits 格式。适用于所有 Git 提交操作，确保提交信息清晰、规范、可追溯。
 metadata:
   author: datagradient-ui
-  version: "1.0"
+  version: "BdccBB"
 ---
 
 # Git 提交规范
